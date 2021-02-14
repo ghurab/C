@@ -10,7 +10,7 @@
 //	//	cout << "i=" << i << " "<<(char)i << endl;
 //
 //	// for loop with two variable i & j
-//	// i will start with 0 and keep on incrementing till 10
+	// i will start with 0 and keep on incrementing till 10
 //	// j will start with 10 and keep on decrementing till 0
 //	for (int i = 0, j = 10; i < 10 && j > 0; i++, j--)
 //	{
